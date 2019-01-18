@@ -1,0 +1,2 @@
+dataset/Images/car_01.jpg: Predicted in 0.298008 seconds.
+car: 51%

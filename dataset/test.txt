@@ -1,0 +1,16 @@
+dataset/Images/moto_51.jpg
+dataset/Images/light_38.jpg
+dataset/Images/light_11.jpg
+dataset/Images/moto_30.jpg
+dataset/Images/light_40.jpg
+dataset/Images/moto_19.jpg
+dataset/Images/car_35.jpg
+dataset/Images/moto_37.jpg
+dataset/Images/light_06.jpg
+dataset/Images/moto_25.jpg
+dataset/Images/car_44.jpg
+dataset/Images/car_12.jpg
+dataset/Images/moto_15.jpg
+dataset/Images/light_49.jpg
+dataset/Images/light_27.jpg
+dataset/Images/light_41.jpg
